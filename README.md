@@ -8,7 +8,9 @@
     - 한 주에 한 챕터씩 읽고 토론
     
 # 스터디 진행 기록
-|1주차|2023.3.28|[Real MySQL 5장](https://github.com/happy-developers/dev-interview/issues/76)
-|2주차|2023.4.4|[Real MySQL 6장](https://github.com/happy-developers/dev-interview/issues/78)
-|3주차|2023.4.10|[Real MySQL 8장](https://github.com/happy-developers/dev-interview/issues/80)
+|주차|일시|주제|
+|:---:|:---|:---:|
+|1주차|2023.3.28|[Real MySQL 5장](https://github.com/happy-developers/dev-interview/issues/76)  
+|2주차|2023.4.4|[Real MySQL 6장](https://github.com/happy-developers/dev-interview/issues/78)  
+|3주차|2023.4.10|[Real MySQL 8장](https://github.com/happy-developers/dev-interview/issues/80)  
 
