@@ -14,3 +14,4 @@
 |3주차|2023.4.10|[Real MySQL 8장](https://github.com/happy-developers/dev-interview/issues/80)  
 |5주차|2023.4.24|[Real MySQL 9장](https://github.com/happy-developers/learn-real-mysql/issues/4)
 |6주차|2023.5.1|[쉬어가기](https://github.com/happy-developers/learn-real-mysql/issues/5)
+|7주차|2023.5.9|[Real MySQL 10장](https://github.com/happy-developers/learn-real-mysql/issues/6)
